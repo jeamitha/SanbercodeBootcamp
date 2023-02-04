@@ -1,0 +1,25 @@
+{
+  "name": "sanbercodebootcamp",
+  "version": "1.0.0",
+  "description": "tugas",
+  "main": "index.js",
+  "scripts": {
+    "test": "tugas pekan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeamitha/SanbercodeBootcamp.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "jea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeamitha/SanbercodeBootcamp/issues"
+  },
+  "homepage": "https://github.com/jeamitha/SanbercodeBootcamp#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
